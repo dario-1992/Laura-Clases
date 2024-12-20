@@ -27,6 +27,13 @@
     align-self: center;
     flex-direction: column;
     flex-wrap: wrap;
+    padding-left:50px ;
+    padding-right: 50px;
+
+}
+
+.immg {
+    width: 100%;
 }
 
 .redes {
@@ -34,6 +41,7 @@
     display: flex;
     justify-content:space-evenly;
     align-self: center;
+    flex-wrap: wrap;
     padding-top: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: x-large;
